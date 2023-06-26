@@ -1,0 +1,2 @@
+export const logo =
+  "https://w7.pngwing.com/pngs/698/938/png-transparent-computer-monitor-tablet-computers-illustration-responsive-web-design-web-development-digital-marketing-computer-icons-web-development-computer-network-web-design-search-engine-optimization.png";
